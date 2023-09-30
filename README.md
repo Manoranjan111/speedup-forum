@@ -27,16 +27,14 @@ The codebase is organized as follows:
 
 ## Screenshorts
   
-<img width="960" alt="Screenshot 2023-09-30 124812" src="https://github.com/Manoranjan111/speedup-forum/assets/95931051/0de2baa8-e38e-48d3-8448-91afb130aa0a">
+
+<img width="960" alt="Screenshot 2023-09-30 124812" src="https://github.com/Manoranjan111/speedup-forum/assets/95931051/c32d7f5d-20a8-48f7-a6ce-aeec0b919198">
 
 
-
-<img width="943" alt="Screenshot 2023-09-30 124850" src="https://github.com/Manoranjan111/speedup-forum/assets/95931051/1a1d9d5f-1a5e-450a-a922-2e4a4c520a46">
-
+<img width="943" alt="Screenshot 2023-09-30 124850" src="https://github.com/Manoranjan111/speedup-forum/assets/95931051/aec9956e-f5c3-40d0-8ed9-369774a614fd">
 
 
-<img width="956" alt="Screenshot 2023-09-30 124926" src="https://github.com/Manoranjan111/speedup-forum/assets/95931051/15573fb6-48da-4f01-88c5-bef025624573">
-
+<img width="956" alt="Screenshot 2023-09-30 124926" src="https://github.com/Manoranjan111/speedup-forum/assets/95931051/d14b57a5-9b4b-4371-b072-b0363d734ab1">
 
 
 ## Getting Started
